@@ -1,0 +1,17 @@
+{
+  "name": "flying-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "KirillSDev",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "@types/three": "^0.161.2",
+    "vite": "^5.0.12"
+  },
+  "dependencies": {
+    "three": "^0.161.0"
+  }
+}
